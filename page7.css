@@ -1,0 +1,132 @@
+body {
+    font-family: sans-serif;
+    background-color: white;
+}
+
+header {
+    background-color: black;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: gray;
+    transition: 1s color linear;
+}
+
+.headnav a {
+    color: gray;
+    position: relative;
+    left: 35%;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.headnav {
+    padding: 20px 0px;
+}
+
+img {
+    position: relative;
+    left: 65%;
+}
+
+.img_text {
+    font-size: 30px;
+    position: relative;
+    left: 80%;
+    top: 30px;
+}
+
+ul {
+    position: relative;
+    left: 70px;
+    bottom: 700px;
+    font-size: 40px;
+}
+
+footer {
+    background-color: black;
+    border-radius: 20px;
+}
+
+.footnav {
+    padding: 20px 0px;
+}
+
+.atext2 {
+    position: relative;
+    bottom: 35px;
+    right: 250px;
+    font-size: 20px;
+}
+
+.footnav a {
+    color: gray;
+    position: relative;
+    left: 33%;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.thx {
+    color: gray;
+    font-size: 10px;
+    text-align: center;
+    transition: 1s color linear;
+}
+
+.thx2 {
+    color: gray;
+    font-size: 10px;
+    text-align: center;
+    transition: 1s color linear;
+}
+
+.buy {
+    position: relative;
+    background-color: gray;
+    border-radius: 30px;
+    color: whitesmoke;
+    left: 75%;
+    bottom: 40px;
+    font-size: 60px;
+    width: 220px;
+    text-align: center;
+}
+
+nav a {
+    color: gray;
+    transition: 1s color linear;
+}
+
+h2{
+    position: relative;
+    left: 70px;
+    bottom: 700px;
+    font-size: 40px;
+    transition: 1s color linear;
+}
+
+h2:hover {
+    color: gray;
+}
+
+nav a:hover {
+    color: white;
+}
+
+h1:hover {
+    color: white;
+}
+
+.thx:hover {
+    color: white;
+}
+
+.thx2:hover {
+    color: white;
+}
